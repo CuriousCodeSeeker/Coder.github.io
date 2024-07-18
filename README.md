@@ -1,6 +1,6 @@
 Activites i attended in the campus of Guru Nanak Dev Engineering College,Ludhiana.
 
-![](![1000003294](https://github.com/user-attachments/assets/50003bc5-21cd-4a1d-93e3-4a4081b539d5)
+![1000003294](https://github.com/user-attachments/assets/50003bc5-21cd-4a1d-93e3-4a4081b539d5)
 
 Here is the link to view my first blog which contains two days experience:
 
