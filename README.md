@@ -8,4 +8,12 @@ Here is the link to view my first blog which contains two days experience:
 
 [Here is the another day at GNDEC](https://github.com/CuriousCodeSeeker/MyPortfolio/blob/main/my_experience/Post2.md)
 
+After two day-offs
+
+I attended auditorium from 9:00 am - 2:30 pm 
+
+[This is the description of starting of new week](
+
+
+
 
