@@ -12,7 +12,7 @@ After two day-offs
 
 I attended auditorium from 9:00 am - 2:30 pm 
 
-[This is the description of starting of new week](
+[This is the description of starting of new week](https://github.com/CuriousCodeSeeker/MyPortfolio/blob/main/my_experience/Post3.md)
 
 
 
